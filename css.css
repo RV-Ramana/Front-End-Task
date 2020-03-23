@@ -1,0 +1,85 @@
+body {
+    background: url("bg.jpg") no-repeat;
+    background-size: cover;
+    width: 1425px;
+    height: 800px;
+}
+a:link {
+    color: rgb(147, 192, 235);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(147, 192, 235);
+    background-color: rgb(142, 162, 179);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(147, 192, 235);
+    background-color:  rgb(124, 142, 156);
+    text-decoration: none;
+  }
+.page-outlook-div {
+    position: relative;
+    top: 30px;
+    width: 975px;
+    height: 750px;
+    left: 250px;
+}
+.page-outlook-div-1 {
+    position: relative;
+    top:0px;
+    width: 965px;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.822);
+    border-style: double;
+    border-width: 5px;
+    border-color:rgb(58, 57, 57);
+}
+.page-outlook-div-2 {
+    position: relative;
+    top: 0px;
+    width: 975px;
+    height: 175px;
+    background-color: rgba(0, 0, 0, 0.247);
+}
+.page-outlook-div-3 {
+    position: relative;
+    top:0px;
+    width: 975px;
+    height: 475px;
+    background-color: rgba(0, 0, 0, 0.774);
+}
+.page-outlook-div-4{
+    position: relative;
+    top: 7px;
+    width: 975px;
+    height: 28px;
+    background-color: rgba(9, 9, 9, 0.507);
+}
+.page-outlook-div-3-inner-div-1 {
+    display: inline-block;
+    width:260px;
+    height:400px;
+    padding-left: 35px;
+    padding-top: 20px;
+    background: transparent;
+}
+.page-outlook-div-3-inner-div-2 {
+    display: inline-block;
+    width:260px;
+    height:400px;
+    padding-left: 45px;
+    padding-top: 20px;
+    background: transparent;
+}
+.page-outlook-div-3-inner-div-3 {
+    display: inline-block;
+    width:260px;
+    height:400px;
+    padding-left: 45px;
+    padding-top: 20px;
+    background: transparent;
+}
